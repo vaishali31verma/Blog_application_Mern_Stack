@@ -1,4 +1,4 @@
-# Blog-appliction_Mern-Stack
+# Blog-appliction_Mern_Stack
  Using React, Node.js, Express &amp; MongoDB . A Full Stack MERN Application  The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 # Memories
 
