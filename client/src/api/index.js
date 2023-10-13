@@ -1,7 +1,7 @@
 import axios from "axios"
 // const url = "http://localhost:8080/posts"
 
-const API = axios.create({baseURL:"https://limitless-escarpment-13111.herokuapp.com/"})
+const API = axios.create({baseURL:"https://blog-application-mern-stack-6li5-n1kjnw6gn-vaishali31verma.vercel.app"})
 
 API.interceptors.request.use((req)=>{
     if(localStorage.getItem("profile")){
